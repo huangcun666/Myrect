@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L01MyRect.iml" filepath="$PROJECT_DIR$/L01MyRect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alphaanimation/alphaanimation.iml" filepath="$PROJECT_DIR$/alphaanimation/alphaanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationset/animationset.iml" filepath="$PROJECT_DIR$/animationset/animationset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawapi/drawapi.iml" filepath="$PROJECT_DIR$/drawapi/drawapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rotateanimation/rotateanimation.iml" filepath="$PROJECT_DIR$/rotateanimation/rotateanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/translateanimation/translateanimation.iml" filepath="$PROJECT_DIR$/translateanimation/translateanimation.iml" />
+    </modules>
+  </component>
+</project>
